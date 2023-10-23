@@ -1,2 +1,2 @@
 # Bows
-VIntage Story mods that replaces vanilla bows' models
+VIntage Story mod that replaces vanilla bows' models
