@@ -1,0 +1,13 @@
+{
+    "type": "content",
+    "name": "Bows",
+    "modid": "maltiezbows",
+    "description": "Replaces bows models",
+    "authors": [
+        "Maltiez"
+    ],
+	"version": "1.0.1",
+    "dependencies": {
+        "game": "1.18.0", "survival": "1.18.0"
+    }
+}

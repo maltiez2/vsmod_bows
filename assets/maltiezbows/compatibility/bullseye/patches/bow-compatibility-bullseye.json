@@ -1,0 +1,10 @@
+[ 
+	{ "side": "Server", "file": "game:itemtypes/tool/bow", "op": "replace", "path": "/behaviors/1/properties/animatedShape", "value": "maltiezbows:item/tool/bow/{type}-animated" },
+	{ 
+		"side": "Server", "file": "game:itemtypes/tool/bow", "op": "replace", "path": "/attributes/arrowScaleByType", "value": 
+		{
+			"*-long": 1.1,
+			"*-recurve": 1.2
+		}
+	}
+]
